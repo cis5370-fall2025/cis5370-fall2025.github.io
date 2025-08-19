@@ -7,8 +7,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cis5370-fall2025.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Florida State University"
-schoolurl: "https://fsu.edu"
-twitter_username: username 
+schoolurl: "https://www.cs.fsu.edu"
+twitter_username: FSUComputerSci
 
 address: |
     Department of Computer Science
