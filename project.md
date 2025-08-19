@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project
-permalink: /project/
+title: Labs
+permalink: /labs/
 ---
 Describe Final project.
